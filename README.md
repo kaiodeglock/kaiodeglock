@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Kaio Vinicius Pinheiro de Andrade
+# 👋 Olá, eu sou Kaio 
 
 🎯 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💜 Animado quando se trata da área de T.I  
