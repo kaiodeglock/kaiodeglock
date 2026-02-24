@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ola Visitor, my name is kaio and I am a student of ads - systems analysis and development
 
 <!--
 **kaiodeglock/kaiodeglock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
